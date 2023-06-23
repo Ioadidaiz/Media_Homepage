@@ -1,9 +1,11 @@
+
+
 .calculation-box {
     position: absolute;
     bottom: 10px;
     left: 10px;
     background-color: rgba(53, 51, 51, 0.37);
-    padding: 15px;
+    padding: 120px;
     text-align: center;
 }
 
